@@ -1,6 +1,8 @@
 Nostril<img align="right" src=".graphics/nostril.png">
 =======
 
+This is a forked version to support _pypi_.
+
 Nostril is the _Nonsense String Evaluator_: a Python module that infers whether a given short string of characters is likely to be random gibberish or something meaningful.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
@@ -10,13 +12,13 @@ Nostril is the _Nonsense String Evaluator_: a Python module that infers whether 
 [![JOSS DOI](http://img.shields.io/badge/JOSS-10.21105%20%2f%20joss.00596-navy.svg?style=flat-square)](https://doi.org/10.21105/joss.00596)
 
 *Author*:       [Michael Hucka](http://github.com/mhucka) (ORCID: [0000-0001-9105-5960](https://orcid.org/0000-0001-9105-5960))<br>
-*Code repository*:   [https://github.com/casics/nostril](https://github.com/casics/nostril)<br>
+*Original code repository*:   [https://github.com/casics/nostril](https://github.com/casics/nostril)<br>
 *License*:      Unless otherwise noted, this content is licensed under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
 
 🏁 Recent news and activities
 ------------------------------
 
-_November 2019_: Release version 1.2.0 changes the license for Nostril to LGPL version 2.1. There are no API or behavioral changes; all changes are limited to documentation strings, the [README](README.md) file, and a new DOI.
+_Aug 2022_: This release updates necessary things for pypi publication.
 
 The file [NEWS](NEWS.md) contains a more complete change log that includes information about previous releases.
 

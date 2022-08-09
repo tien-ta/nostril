@@ -3,6 +3,12 @@
 
 This file summarizes the main changes between different versions of this package.
 
+Version 1.2.1
+-------------
+
+This release updates necessary things for pypi publication.
+
+
 Version 1.2.0
 -------------
 

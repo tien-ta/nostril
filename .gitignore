@@ -69,3 +69,7 @@ build
 dist
 README.html
 nostril.egg-info
+
+# IDE things to ignore:
+# .............................................................................
+.idea/

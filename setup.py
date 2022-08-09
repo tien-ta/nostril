@@ -38,6 +38,7 @@ setup(
     long_description = 'Nostril (Nonsense String Evaluator) implements a heuristic mechanism to infer whether a given word or text string is likely to be meaningful or nonsense.',
     version          = version['__version__'],
     url              = version['__url__'],
+    download_url     = 'https://github.com/tien-ta/nostril/archive/refs/tags/v1.2.1.tar.gz',
     author           = version['__author__'],
     author_email     = version['__email__'],
     license          = version['__license__'],
